@@ -1,0 +1,10 @@
+https://github.com/GreatG0ose/DiplomaTools/tree/master/examples/aggreagator/project/strings.go 
+ 
+https://github.com/GreatG0ose/DiplomaTools/tree/master/examples/aggreagator/project/strings_test.go 
+ 
+https://github.com/GreatG0ose/DiplomaTools/tree/master/examples/aggreagator/project/builder/compare.go 
+ 
+https://github.com/GreatG0ose/DiplomaTools/tree/master/examples/aggreagator/project/builder/search.go 
+ 
+https://github.com/GreatG0ose/DiplomaTools/tree/master/examples/aggreagator/project/builder/search_test.go 
+ 

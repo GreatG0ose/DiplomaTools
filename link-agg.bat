@@ -9,8 +9,8 @@ set pre=%3
 setlocal enabledelayedexpansion
 for /R . %%f in (*.%ext%) do (
 	set B=%%f
-	echo !B:%CD%\=!
 	set C=!B:%CD%\=!
+	echo %C%
 	echo %pre%!C:\=/! >> %out%
 	echo. >> %out%
 )
