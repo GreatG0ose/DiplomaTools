@@ -1,5 +1,6 @@
 @ECHO OFF
 if "%1"=="" GOTO USAGE
+if "%2"=="" GOTO USAGE
 
 set out=%1
 set ext=%2
