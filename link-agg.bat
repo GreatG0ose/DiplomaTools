@@ -24,3 +24,5 @@ echo Usage: %0 ^<output^> ^<extension^> <prefix-link>
 echo Example: %0 links.txt js* https://github.com/Project/test/
 echo,         combines all .js and .jsx file names to links.txt
 :EXIT
+timeout 2 >nul
+exit

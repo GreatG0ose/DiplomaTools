@@ -1,4 +1,7 @@
 @ECHO=OFF
+del build\doc\src.txt 
+del build\doc\links.txt 
+
 set target=project
 set aggpath=../..
 
