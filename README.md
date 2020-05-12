@@ -9,8 +9,8 @@ Example: `src-agg.bat output.txt js*`
 
 
 ## Link aggregator
-Usage: `src-agg.bat <output> <extension> <url-prefix>`
+Usage: `link-agg.bat <output> <extension> <url-prefix>`
 
 
 Example: `link-agg.bat output.txt js* https://github.com/GreatG0ose/DiplomaTools/examples/`
-         combines all .js and .jsx file names, writes prefixed filen ames to output.txt
+         combines all .js and .jsx file names, writes prefixed file names to output.txt
